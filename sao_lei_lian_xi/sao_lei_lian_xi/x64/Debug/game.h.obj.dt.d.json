@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\learn-c\\2026\\sao_lei_lian_xi\\sao_lei_lian_xi\\game.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "e:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stdio.h",
+            "e:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt.h",
+            "d:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+            "d:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "d:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "d:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
+            "e:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h",
+            "e:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h",
+            "e:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stdlib.h",
+            "e:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_malloc.h",
+            "e:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_search.h",
+            "e:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stddef.h",
+            "e:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_wstdlib.h",
+            "d:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.51.36231\\include\\limits.h",
+            "e:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\time.h",
+            "e:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_wtime.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
